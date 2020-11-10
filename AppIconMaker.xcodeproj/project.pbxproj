@@ -25,17 +25,17 @@
 		95293CB025593F08002EA0BB /* GradientPresets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95293CAF25593F08002EA0BB /* GradientPresets.swift */; };
 		95293CB625594377002EA0BB /* ContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95293CB525594377002EA0BB /* ContainerView.swift */; };
 		953CD5762558202A00F07F9F /* Animatable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953CD5752558202A00F07F9F /* Animatable.swift */; };
-		954380B22552A8A1008307B4 /* ImagePickerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954380B12552A8A1008307B4 /* ImagePickerDelegate.swift */; };
 		9579C1FC255A88AB003D0ECE /* UIView+Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9579C1FB255A88AB003D0ECE /* UIView+Rendering.swift */; };
 		9579C1FF255A9951003D0ECE /* iPhonePreviewView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9579C1FE255A9951003D0ECE /* iPhonePreviewView.xib */; };
 		9579C202255AA117003D0ECE /* UINib+XIB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9579C201255AA117003D0ECE /* UINib+XIB.swift */; };
 		9584CA9D2552E72800A77D8E /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9584CA9C2552E72800A77D8E /* Binding.swift */; };
+		958B881C255AD6BE00B366FF /* UIView+AutoLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958B881B255AD6BE00B366FF /* UIView+AutoLayout.swift */; };
 		9594718B2554395B00B07FC9 /* NavigationDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9594718A2554395B00B07FC9 /* NavigationDelegate.swift */; };
 		95995B4525558FAA0005C248 /* PreviewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95995B4425558FAA0005C248 /* PreviewViewModel.swift */; };
 		95995B4825558FFF0005C248 /* ViewControllerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95995B4725558FFF0005C248 /* ViewControllerModel.swift */; };
 		95B7DBDB255AD0A000002585 /* ImageSaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95B7DBDA255AD0A000002585 /* ImageSaver.swift */; };
 		95CA8F402555DE7200FFF810 /* iPhonePreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95CA8F3F2555DE7200FFF810 /* iPhonePreviewView.swift */; };
-		95E84B892553052D008E4F20 /* AppExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E84B882553052D008E4F20 /* AppExtensions.swift */; };
+		95E84B892553052D008E4F20 /* CALayer+Customization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E84B882553052D008E4F20 /* CALayer+Customization.swift */; };
 		95E84B8D2553225F008E4F20 /* PreviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E84B8C2553225F008E4F20 /* PreviewViewController.swift */; };
 		95E84B9025532273008E4F20 /* PreviewCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E84B8F25532273008E4F20 /* PreviewCoordinator.swift */; };
 		95EEECC0255850110072A9A5 /* SymbolsDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95EEECBF255850110072A9A5 /* SymbolsDataSource.swift */; };
@@ -66,17 +66,17 @@
 		95293CAF25593F08002EA0BB /* GradientPresets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientPresets.swift; sourceTree = "<group>"; };
 		95293CB525594377002EA0BB /* ContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerView.swift; sourceTree = "<group>"; };
 		953CD5752558202A00F07F9F /* Animatable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animatable.swift; sourceTree = "<group>"; };
-		954380B12552A8A1008307B4 /* ImagePickerDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerDelegate.swift; sourceTree = "<group>"; };
 		9579C1FB255A88AB003D0ECE /* UIView+Rendering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Rendering.swift"; sourceTree = "<group>"; };
 		9579C1FE255A9951003D0ECE /* iPhonePreviewView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = iPhonePreviewView.xib; sourceTree = "<group>"; };
 		9579C201255AA117003D0ECE /* UINib+XIB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UINib+XIB.swift"; sourceTree = "<group>"; };
 		9584CA9C2552E72800A77D8E /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
+		958B881B255AD6BE00B366FF /* UIView+AutoLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+AutoLayout.swift"; sourceTree = "<group>"; };
 		9594718A2554395B00B07FC9 /* NavigationDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationDelegate.swift; sourceTree = "<group>"; };
 		95995B4425558FAA0005C248 /* PreviewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewViewModel.swift; sourceTree = "<group>"; };
 		95995B4725558FFF0005C248 /* ViewControllerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerModel.swift; sourceTree = "<group>"; };
 		95B7DBDA255AD0A000002585 /* ImageSaver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSaver.swift; sourceTree = "<group>"; };
 		95CA8F3F2555DE7200FFF810 /* iPhonePreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPhonePreviewView.swift; sourceTree = "<group>"; };
-		95E84B882553052D008E4F20 /* AppExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppExtensions.swift; sourceTree = "<group>"; };
+		95E84B882553052D008E4F20 /* CALayer+Customization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CALayer+Customization.swift"; sourceTree = "<group>"; };
 		95E84B8C2553225F008E4F20 /* PreviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewViewController.swift; sourceTree = "<group>"; };
 		95E84B8F25532273008E4F20 /* PreviewCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewCoordinator.swift; sourceTree = "<group>"; };
 		95EEECBF255850110072A9A5 /* SymbolsDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolsDataSource.swift; sourceTree = "<group>"; };
@@ -121,7 +121,6 @@
 				9514B9E0255185CA00E1102B /* Screens */,
 				95CA8F3D2555DE1B00FFF810 /* InterfaceViewClasses */,
 				95B7DBD9255AD09500002585 /* Services */,
-				9514B9E2255185E200E1102B /* Models */,
 				954380B42552A8A8008307B4 /* FlowDelegates */,
 				9514B9E72551CF7700E1102B /* Protocols */,
 				9584CAA02552EBC600A77D8E /* TopLevelClasses */,
@@ -151,13 +150,6 @@
 				955CC8A92556E66100927BAA /* Preview */,
 			);
 			path = Screens;
-			sourceTree = "<group>";
-		};
-		9514B9E2255185E200E1102B /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
 			sourceTree = "<group>";
 		};
 		9514B9E72551CF7700E1102B /* Protocols */ = {
@@ -203,7 +195,6 @@
 		954380B42552A8A8008307B4 /* FlowDelegates */ = {
 			isa = PBXGroup;
 			children = (
-				954380B12552A8A1008307B4 /* ImagePickerDelegate.swift */,
 				9594718A2554395B00B07FC9 /* NavigationDelegate.swift */,
 			);
 			path = FlowDelegates;
@@ -269,7 +260,8 @@
 		95E84B872553051B008E4F20 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				95E84B882553052D008E4F20 /* AppExtensions.swift */,
+				95E84B882553052D008E4F20 /* CALayer+Customization.swift */,
+				958B881B255AD6BE00B366FF /* UIView+AutoLayout.swift */,
 				9579C1FB255A88AB003D0ECE /* UIView+Rendering.swift */,
 				9579C201255AA117003D0ECE /* UINib+XIB.swift */,
 			);
@@ -365,11 +357,11 @@
 				95995B4525558FAA0005C248 /* PreviewViewModel.swift in Sources */,
 				95EEECC8255851D10072A9A5 /* SymbolCell.swift in Sources */,
 				951A284125583B46008DD0C8 /* IconDesignerCoordinator.swift in Sources */,
-				954380B22552A8A1008307B4 /* ImagePickerDelegate.swift in Sources */,
 				9514B9E92551CF8900E1102B /* Coordinator+Coordinated.swift in Sources */,
 				95F0B7FD255970EA00BD2E9B /* BackgroundPickerObject.swift in Sources */,
 				950C44AB2556C77600EA9E8C /* EKButton.swift in Sources */,
 				9579C202255AA117003D0ECE /* UINib+XIB.swift in Sources */,
+				958B881C255AD6BE00B366FF /* UIView+AutoLayout.swift in Sources */,
 				95293CB625594377002EA0BB /* ContainerView.swift in Sources */,
 				95B7DBDB255AD0A000002585 /* ImageSaver.swift in Sources */,
 				95995B4825558FFF0005C248 /* ViewControllerModel.swift in Sources */,
@@ -384,7 +376,7 @@
 				9514B9F12551D04E00E1102B /* Storyboarded.swift in Sources */,
 				9514B9F52551D5BA00E1102B /* GenericNavigationController.swift in Sources */,
 				9584CA9D2552E72800A77D8E /* Binding.swift in Sources */,
-				95E84B892553052D008E4F20 /* AppExtensions.swift in Sources */,
+				95E84B892553052D008E4F20 /* CALayer+Customization.swift in Sources */,
 				95EEECC0255850110072A9A5 /* SymbolsDataSource.swift in Sources */,
 				95E84B8D2553225F008E4F20 /* PreviewViewController.swift in Sources */,
 				9579C1FC255A88AB003D0ECE /* UIView+Rendering.swift in Sources */,

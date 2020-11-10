@@ -28,6 +28,7 @@ class IconDesignerViewController: BaseController<IconDesignerCoordinator, IconDe
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        coordinator?.delegate = self
         setupCollectionView()
         setupBackgroundContainer()
     }

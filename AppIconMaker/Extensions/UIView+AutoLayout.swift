@@ -1,34 +1,11 @@
 //
-//  AppExtensions.swift
+//  UIView+AutoLayout.swift
 //  AppIconMaker
 //
-//  Created by Eilon Krauthammer on 04/11/2020.
+//  Created by Eilon Krauthammer on 10/11/2020.
 //
 
 import UIKit
-
-extension UIImageView {
-    
-}
-
-extension CALayer {
-    enum ShadowType {
-        case regular
-    }
-    
-    func shadow(_ type: ShadowType) {
-        switch type {
-            case .regular:
-                shadowRadius = 8.0
-                shadowColor = UIColor.black.withAlphaComponent(0.15).cgColor
-                shadowOffset = CGSize(width: 0.0, height: 3.0)
-                shadowOpacity = 1.0
-                shadowPath = UIBezierPath(roundedRect: bounds, cornerRadius: cornerRadius).cgPath
-        }
-    }
-}
-
-// MARK: - Auto Layout
 
 extension UIView {
     func fix(in container: UIView, padding: UIEdgeInsets = .zero) {

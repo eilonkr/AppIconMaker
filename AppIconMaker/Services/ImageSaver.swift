@@ -8,7 +8,7 @@
 import UIKit
 
 class ImageSaver: NSObject {
-    var completionHandler: (() -> Void)?
+    private var completionHandler: (() -> Void)?
     
     func writeToPhotoAlbum(_ image: UIImage, completion: (() -> Void)?) {
         completionHandler = completion

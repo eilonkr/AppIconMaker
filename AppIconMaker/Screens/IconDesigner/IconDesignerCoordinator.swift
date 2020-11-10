@@ -15,7 +15,7 @@ class IconDesignerCoordinator: Coordinator {
     
     public var onFinish: ((UIImage?) -> Void)?
     
-    private weak var delegate: IconDesignerDelegate?
+    weak var delegate: IconDesignerDelegate?
     
     init(navigationController: UINavigationController) {
         self.navigationController = navigationController
@@ -23,7 +23,6 @@ class IconDesignerCoordinator: Coordinator {
     
     func start() {
         let vc = IconDesignerViewController.instantiate()
-        self.delegate = vc
         vc.coordinator = self
         vc.viewModel = IconDesignerViewModel()
         navigationController.present(vc, animated: true, completion: nil)
