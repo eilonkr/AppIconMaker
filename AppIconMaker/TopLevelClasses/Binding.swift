@@ -1,5 +1,5 @@
 //
-//  Box.swift
+//  Binding.swift
 //  AppIconMaker
 //
 //  Created by Eilon Krauthammer on 04/11/2020.
