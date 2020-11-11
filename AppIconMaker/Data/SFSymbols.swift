@@ -56,8 +56,6 @@ struct SFSymbols {
 
         archivebox.fill
 
-        arkit
-
         Usage restricted to ARKit
         arrow.2.circlepath
 
@@ -75,24 +73,12 @@ struct SFSymbols {
 
         arrow.clockwise.circle.fill
 
-        arrow.clockwise.icloud
-
-        Usage restricted to iCloud service
-        arrow.clockwise.icloud.fill
-
-        Usage restricted to iCloud service
         arrow.counterclockwise
 
         arrow.counterclockwise.circle
 
         arrow.counterclockwise.circle.fill
 
-        arrow.counterclockwise.icloud
-
-        Usage restricted to iCloud service
-        arrow.counterclockwise.icloud.fill
-
-        Usage restricted to iCloud service
         arrow.down
 
         arrow.down.circle
@@ -113,12 +99,6 @@ struct SFSymbols {
 
         arrow.down.left.square.fill
 
-        arrow.down.left.video
-
-        Usage restricted to FaceTime app
-        arrow.down.left.video.fill
-
-        Usage restricted to FaceTime app
         arrow.down.right
 
         arrow.down.right.and.arrow.up.left
@@ -265,12 +245,6 @@ struct SFSymbols {
 
         arrow.up.right.square.fill
 
-        arrow.up.right.video
-
-        Usage restricted to FaceTime app
-        arrow.up.right.video.fill
-
-        Usage restricted to FaceTime app
         arrow.up.square
 
         arrow.up.square.fill
@@ -505,22 +479,10 @@ struct SFSymbols {
 
         bolt.horizontal.fill
 
-        bolt.horizontal.icloud
-
-        Usage restricted to iCloud service
-        bolt.horizontal.icloud.fill
-
-        Usage restricted to iCloud service
         bolt.slash
 
         bolt.slash.fill
 
-        book
-
-        Usage restricted to Apple Books
-        book.fill
-
-        Usage restricted to Apple Books
         bookmark
 
         bookmark.fill
@@ -945,30 +907,6 @@ struct SFSymbols {
 
         ellipsis.circle.fill
 
-        envelope
-
-        Usage restricted to Mail app
-        envelope.badge
-
-        Usage restricted to Mail app
-        envelope.badge.fill
-
-        Usage restricted to Mail app
-        envelope.circle
-
-        Usage restricted to Mail app
-        envelope.circle.fill
-
-        Usage restricted to Mail app
-        envelope.fill
-
-        Usage restricted to Mail app
-        envelope.open
-
-        Usage restricted to Mail app
-        envelope.open.fill
-
-        Usage restricted to Mail app
         equal
 
         equal.circle
@@ -999,12 +937,6 @@ struct SFSymbols {
 
         exclamationmark.circle.fill
 
-        exclamationmark.icloud
-
-        Usage restricted to iCloud service
-        exclamationmark.icloud.fill
-
-        Usage restricted to iCloud service
         exclamationmark.octagon
 
         exclamationmark.octagon.fill
@@ -1326,36 +1258,6 @@ struct SFSymbols {
 
         i.square.fill
 
-        icloud
-
-        Usage restricted to iCloud service
-        icloud.and.arrow.down
-
-        Usage restricted to iCloud service
-        icloud.and.arrow.down.fill
-
-        Usage restricted to iCloud service
-        icloud.and.arrow.up
-
-        Usage restricted to iCloud service
-        icloud.and.arrow.up.fill
-
-        Usage restricted to iCloud service
-        icloud.circle
-
-        Usage restricted to iCloud service
-        icloud.circle.fill
-
-        Usage restricted to iCloud service
-        icloud.fill
-
-        Usage restricted to iCloud service
-        icloud.slash
-
-        Usage restricted to iCloud service
-        icloud.slash.fill
-
-        Usage restricted to iCloud service
         indianrupeesign.circle
 
         indianrupeesign.circle.fill
@@ -1474,15 +1376,6 @@ struct SFSymbols {
 
         list.number.rtl
 
-        livephoto
-
-        Usage restricted to Live Photos
-        livephoto.play
-
-        Usage restricted to Live Photos
-        livephoto.slash
-
-        Usage restricted to Live Photos
         location
 
         location.circle
@@ -1511,12 +1404,6 @@ struct SFSymbols {
 
         lock.fill
 
-        lock.icloud
-
-        Usage restricted to iCloud service
-        lock.icloud.fill
-
-        Usage restricted to iCloud service
         lock.open
 
         lock.open.fill
@@ -1731,18 +1618,6 @@ struct SFSymbols {
 
         pencil.slash
 
-        pencil.tip
-
-        Usage restricted to Markup feature
-        pencil.tip.crop.circle
-
-        Usage restricted to Markup feature
-        pencil.tip.crop.circle.badge.minus
-
-        Usage restricted to Markup feature
-        pencil.tip.crop.circle.badge.plus
-
-        Usage restricted to Markup feature
         percent
 
         person
@@ -1801,12 +1676,6 @@ struct SFSymbols {
 
         person.fill
 
-        person.icloud
-
-        Usage restricted to iCloud service
-        person.icloud.fill
-
-        Usage restricted to iCloud service
         personalhotspot
 
         perspective
@@ -1827,54 +1696,6 @@ struct SFSymbols {
 
         pesosign.square.fill
 
-        phone
-
-        Usage restricted to Phone app
-        phone.arrow.down.left
-
-        Usage restricted to Phone app
-        phone.arrow.down.left.fill
-
-        Usage restricted to Phone app
-        phone.arrow.right
-
-        Usage restricted to Phone app
-        phone.arrow.right.fill
-
-        Usage restricted to Phone app
-        phone.arrow.up.right
-
-        Usage restricted to Phone app
-        phone.arrow.up.right.fill
-
-        Usage restricted to Phone app
-        phone.badge.plus
-
-        Usage restricted to Phone app
-        phone.badge.plus.fill
-
-        Usage restricted to Phone app
-        phone.circle
-
-        Usage restricted to Phone app
-        phone.circle.fill
-
-        Usage restricted to Phone app
-        phone.down
-
-        Usage restricted to Phone app
-        phone.down.circle
-
-        Usage restricted to Phone app
-        phone.down.circle.fill
-
-        Usage restricted to Phone app
-        phone.down.fill
-
-        Usage restricted to Phone app
-        phone.fill
-
-        Usage restricted to Phone app
         photo
 
         photo.fill
@@ -1987,18 +1808,6 @@ struct SFSymbols {
 
         questionmark.square.fill
 
-        questionmark.video
-
-        Usage restricted to FaceTime app
-        questionmark.video.fill
-
-        Usage restricted to FaceTime app
-        questionmark.video.fill.rtl
-
-        Usage restricted to FaceTime app
-        questionmark.video.rtl
-
-        Usage restricted to FaceTime app
         quote.bubble
 
         quote.bubble.fill
@@ -2017,9 +1826,6 @@ struct SFSymbols {
 
         rays
 
-        realtimetext
-
-        Usage restricted to Real-time text feature
         recordingtape
 
         rectangle
@@ -2142,12 +1948,6 @@ struct SFSymbols {
 
         s.square.fill
 
-        safari
-
-        Usage restricted to Safari browser
-        safari.fill
-
-        Usage restricted to Safari browser
         scissors
 
         scope
@@ -2394,9 +2194,6 @@ struct SFSymbols {
 
         tag.fill
 
-        teletype
-
-        Usage restricted to Teletype feature
         tengesign.circle
 
         tengesign.circle.fill
@@ -2573,30 +2370,6 @@ struct SFSymbols {
 
         v.square.fill
 
-        video
-
-        Usage restricted to FaceTime app
-        video.badge.plus
-
-        Usage restricted to FaceTime app
-        video.badge.plus.fill
-
-        Usage restricted to FaceTime app
-        video.circle
-
-        Usage restricted to FaceTime app
-        video.circle.fill
-
-        Usage restricted to FaceTime app
-        video.fill
-
-        Usage restricted to FaceTime app
-        video.slash
-
-        Usage restricted to FaceTime app
-        video.slash.fill
-
-        Usage restricted to FaceTime app
         view.2d
 
         view.3d
@@ -2699,12 +2472,6 @@ struct SFSymbols {
 
         xmark.circle.fill
 
-        xmark.icloud
-
-        Usage restricted to iCloud service
-        xmark.icloud.fill
-
-        Usage restricted to iCloud service
         xmark.octagon
 
         xmark.octagon.fill
